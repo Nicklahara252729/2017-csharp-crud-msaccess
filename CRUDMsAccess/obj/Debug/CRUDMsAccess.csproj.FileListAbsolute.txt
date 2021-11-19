@@ -1,0 +1,29 @@
+C:\Users\MUSTAAMIR\Documents\CRUDMsAccess\CRUDMsAccess\bin\Debug\mydb.accdb
+C:\Users\MUSTAAMIR\Documents\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe.config
+C:\Users\MUSTAAMIR\Documents\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe
+C:\Users\MUSTAAMIR\Documents\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.pdb
+C:\Users\MUSTAAMIR\Documents\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Form1.resources
+C:\Users\MUSTAAMIR\Documents\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Properties.Resources.resources
+C:\Users\MUSTAAMIR\Documents\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csproj.GenerateResource.Cache
+C:\Users\MUSTAAMIR\Documents\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.exe
+C:\Users\MUSTAAMIR\Documents\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.pdb
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe.config
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.exe
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.pdb
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\CRUDMsAccess\CRUDMsAccess\bin\Debug\mydb.accdb
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.pdb
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Form1.resources
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Properties.Resources.resources
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csproj.GenerateResource.Cache
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe.config
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.exe
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.pdb
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CRUDMsAccess\CRUDMsAccess\bin\Debug\mydb.accdb
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.pdb
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Form1.resources
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Properties.Resources.resources
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csproj.GenerateResource.Cache
